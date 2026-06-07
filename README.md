@@ -1,2 +1,16 @@
-# Admin-control-panel
-Удалённое уничтожение файлов  Панель управления администратора  Автоматическое закрепление в системе  Скрытое выполнение  Кроссплатформенность (Windows/Linux)               Запустите admin_server.py на вашем сервере  Используйте builder.py для создания клиента  Разверните клиент на цели  Отправьте команду удаления из панели администратора
+# ☠️ KILLER SYSTEM v2.0 | EN / RU
+
+## ENGLISH
+
+### Features
+- Remote file destruction
+- Admin control panel
+- Automatic persistence
+- Hidden execution
+- Cross-platform (Windows/Linux)
+
+### Installation
+```bash
+git clone https://github.com/....................
+cd DarkDelete-System
+python admin_server.py
